@@ -1,4 +1,4 @@
-# MuMo
+# SPOLRE
 
 ## Installation
 
